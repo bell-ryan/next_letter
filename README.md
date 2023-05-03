@@ -1,2 +1,2 @@
-# next_letter
-find the next letter
+# GoUtils
+Utilities to make your life easier
