@@ -1,3 +1,3 @@
-module github.com/bell-ryan/next_letter
+module github.com/hyper-smooth/goutils
 
 go 1.19
